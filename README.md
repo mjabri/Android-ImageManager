@@ -55,9 +55,7 @@ Check the [sample](https://github.com/felipecsl/Android-ImageManager/tree/master
 
 Try out the sample application on [Google Play](https://play.google.com/store/apps/details?id=com.felipecsl.android.imaging.sample)
 
-[[![Gplay](https://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://developer.android.com/images/brand/en_generic_rgb_wo_60.png)][gplay]
-
-[gplay]: https://play.google.com/store/apps/details?id=com.felipecsl.android.imaging.sample
+[[![Gplay](https://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.felipecsl.android.imaging.sample)]
 
 This library was tested with Android API Level 8 and newer.
 
